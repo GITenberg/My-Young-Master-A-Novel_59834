@@ -1,5 +1,8 @@
 _repo: My-Young-Master-A-Novel_59834
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59834-h/images/cover.jpg
 creator:
   author:
     agent_name: Read, Opie Percival
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8387
     wikipedia: http://en.wikipedia.org/wiki/Opie_Read
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59834#My-Young-Master-A-Novel
 gutenberg_issued: '2019-06-29'
 gutenberg_type: Text
 identifiers:
